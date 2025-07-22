@@ -27,3 +27,12 @@ Structured JSON reports
 Timestamped evidence collection
 
 Metadata-rich results
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Usage Example:
+python digfoot.py example@domain.com
+
+Searching for activity linked to: example@domain.com
+- Found 12 comments across platforms
+- Discovered 7 forum posts
+- Identified 3 profile mentions
+Results saved to example_activity.json
