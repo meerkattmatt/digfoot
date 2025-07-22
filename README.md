@@ -6,8 +6,6 @@ A forensic Python tool that systematically uncovers and catalogs digital traces 
  Key Features
 Comprehensive Activity Mapping:
 
-Finds public comments (Reddit, GitHub, forums)
-
 Discovers forum posts and discussion history
 
 Identifies profile mentions across platforms
